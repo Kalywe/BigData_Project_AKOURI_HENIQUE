@@ -5,3 +5,4 @@ For our first csv file, we used 'consommation-electrique-par-secteur-dactivite-c
 It is too big for importing it on github.
 It can be found on the website: https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-commune/export/
 
+We chose this file on the subject of group BI1.
